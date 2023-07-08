@@ -99,7 +99,6 @@ pre {
 .pre-container > div {
   z-index: 10;
   position: absolute;
-  outline: 1px solid lime;
 }
 
 .pre-container > div:nth-child(1) {
